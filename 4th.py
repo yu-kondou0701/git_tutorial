@@ -1,2 +1,2 @@
-a = aaaaa
+a = 'aaaaa'
 print(a)
